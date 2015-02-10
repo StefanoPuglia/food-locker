@@ -1,0 +1,15 @@
+1. Backend Device Management - IDAS (http://catalogue.fi-ware.org/enablers/backend-device-management-idas)
+    IOT Management Platform (already explored its FIGWAY Python implementation)
+    >>> What it buys FoodLockers: it makes "physical-digital" integration possible 
+
+2. Identity Management (http://catalogue.fi-ware.org/enablers/identity-management-keyrock)
+    It encompasses a number of aspects involved with users' access to networks, services and applications
+    >>> What it buys FoodLockers: it controls, authenticates, authorizes etc. users accessing the Open Cart E-commerce application 
+
+3. Object Storage (http://catalogue.fi-ware.org/enablers/object-storage-ge-fi-ware-implementation)
+    OpenStack-based object storage functionality
+    >>> What it buys FoodLockers: it makes it possible to safely store data on transactions (digital) and lockers' usage (IOT-based), possibly in open formats (good to disclose them to the general public and for statistics) 
+    
+4. POI Data Provider (http://catalogue.fi-ware.org/enablers/poi-data-provider)
+    It makes it easy to relate any information to places (e.g. Special location data of your business) search information by location and other criteria, store information by location
+    >>> What it buys FoodLockers: it enables location-based search of lockers
